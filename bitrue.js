@@ -1,0 +1,1 @@
+https://www.bitrue.com/api/v1/ticker/price?symbol=SGBUSDT

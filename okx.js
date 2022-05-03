@@ -1,0 +1,1 @@
+https://www.okx.com/api/v5/market/ticker?instId=XRP-USD-SWAP
